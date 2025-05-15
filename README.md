@@ -1,4 +1,5 @@
 1)implementation=>(forming max heap ,inserting deleting ,heapify,printing)
+
 2)heapsort=>using heapify 
                                         LETS CLEARLY SEE  NORMAL HEAP AND HEAP AFTER HEAPSORT(WHICH USES HEAPIFY TECHNIQUE)
 
