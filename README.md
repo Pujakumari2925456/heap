@@ -2,7 +2,7 @@
 2)heapsort=>using heapify 
                                         LETS CLEARLY SEE  NORMAL HEAP AND HEAP AFTER HEAPSORT(WHICH USES HEAPIFY TECHNIQUE)
 
-                       EX-🌲 Suppose We Build a Max-Heap:
+                     
                         Say we insert values:
                         50, 30, 20, 15, 10, 8, 16
 
@@ -10,16 +10,18 @@
                                                               
                                                               
                                                               
-                                                              1)HEAP
-
-The Max-Heap might look like this:
-         50
-       /    \
-     30      20
-    /  \    /  \
-  15  10  8   16
+        EX-🌲 Suppose We Build a Max-Heap:                       1)heap  
+                                              The Max-Heap might look like this:
+       
+               50
+             /    \
+           30      20
+          /  \    /  \
+        15  10  8   16
 Stored in array as:
 [50, 30, 20, 15, 10, 8, 16]
+
+
 
 When you do print() of the heap array:
 🖨️ Output = [50, 30, 20, 15, 10, 8, 16]                                           #see ouput
