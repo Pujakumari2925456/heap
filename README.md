@@ -4,8 +4,9 @@
                                         LETS CLEARLY SEE  NORMAL HEAP AND HEAP AFTER HEAPSORT(WHICH USES HEAPIFY TECHNIQUE)
 
                      
-                        Say we insert values:
+                      =>  Say we insert values:
                         50, 30, 20, 15, 10, 8, 16
+                        
 
                                                               
                                                               
