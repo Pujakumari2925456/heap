@@ -4,15 +4,16 @@
                                         LETS CLEARLY SEE  NORMAL HEAP AND HEAP AFTER HEAPSORT(WHICH USES HEAPIFY TECHNIQUE)
 
                      
-                      =>  Say we insert values:
-                        50, 30, 20, 15, 10, 8, 16
+                                              =>  Say we insert values:
+                                                50, 30, 20, 15, 10, 8, 16
                         
 
                                                               
                                                               
                                                               
                                                               
-        EX-🌲 Suppose We Build a Max-Heap:                       1)heap  
+        EX-🌲 Suppose We Build a Max-Heap:                      
+                                                          1)heap  
                                               The Max-Heap might look like this:
        
                50
@@ -56,4 +57,5 @@ Heapsort: Removes all elements in order, results in sorted array but destroys he
                           heapify
 it is just a fn that maintain heap property of root node ,always bigger than its child node..applies on all its subnode also.
 used in deletion fn ,when one element deleted heapify from root node(baap).
+used in heapsort after each step
 
