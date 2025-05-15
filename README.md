@@ -6,6 +6,10 @@
                         Say we insert values:
                         50, 30, 20, 15, 10, 8, 16
 
+                                                              
+                                                              
+                                                              
+                                                              
                                                               1)HEAP
 
 The Max-Heap might look like this:
