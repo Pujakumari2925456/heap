@@ -59,3 +59,10 @@ it is just a fn that maintain heap property of root node ,always bigger than its
 used in deletion fn ,when one element deleted heapify from root node(baap).
 used in heapsort after each step
 
+
+3)heap se banana start karoge so time complexity=O(n)
+  priority_queue se O(nlogn)
+
+4)kth largest=minheap
+kth smmallest =max_heap
+
