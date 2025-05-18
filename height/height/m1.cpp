@@ -1,6 +1,6 @@
 
 // User function Template for C++
-
+//by video
 class Solution {
   public:
     int heapHeight(int N, int arr[]) {
@@ -14,5 +14,16 @@ class Solution {
        }
         return height;
         
+    }
+};
+
+
+//by other
+class Solution {
+  public:
+    int heapHeight(int N, int arr[]) {
+        // code here
+        if(N==1) return 1;
+        return (int)log2(N);
     }
 };
